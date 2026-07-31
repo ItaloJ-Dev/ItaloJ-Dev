@@ -94,20 +94,7 @@ Me chamo Ítalo Jamerson Gonçalves Santos e sou desenvolvedor Full Stack apaixo
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ItaloJ-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloJ-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=ItaloJ-Dev&theme=tokyonight"/>  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ItaloJ-Dev&layout=compact&theme=tokyonight"/>
 </p>
