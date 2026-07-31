@@ -3,7 +3,8 @@
 **`Desenvolvedor Full-Stack`**
 
 Me chamo Ítalo Jamerson Gonçalves Santos e sou desenvolvedor Full Stack apaixonado por tecnologia, programação e inovação. Tenho experiência no desenvolvimento de aplicações web, interfaces modernas e soluções utilizando diferentes linguagens e tecnologias. Também possuo grande interesse por robótica, eletrônica e inteligência artificial, áreas nas quais busco aprender e evoluir constantemente. Gosto de transformar ideias em projetos funcionais, sempre priorizando organização, desempenho e uma boa experiência para o usuário. Estou em constante aprendizado, explorando novas ferramentas e desafios para ampliar meus conhecimentos e criar soluções cada vez melhores.
-    <a href="https://github.com/ItaloJ-Dev?tab=repositories&sort=stargazers">
+
+<a href="https://github.com/ItaloJ-Dev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
